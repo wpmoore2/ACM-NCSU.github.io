@@ -19,7 +19,7 @@ Department here at NC State, ACM/AITP provides opportunities throughout the year
 for students to get involved in their department and learn about the exciting
 job opportunities awaiting them in this growing field.
 
-**Interested in joining?** Check out our [Calendar](http://calendar.google.com)
+**Interested in joining?** Check out our [Calendar]({{site.url}}/calendar)
 to see when and where we're having our next event!
 
 # Events
@@ -42,6 +42,12 @@ These include Video Game Nights at Hunt Library, and hikes at Umstead Park.
 community and all of our sponsors over for good food! This is an annual
 tradition of the NC State CSC department, and we'd love to have you be a part!
 
-# Sponsors
+# Officers
+Coming soon!
 
-TODO: include a list of our e-partners
+# Sponsors
+Of course, none of this possible without the help of
+[NC State's Computer Science e-Partners!](https://www.csc.ncsu.edu/corporate_relations/current-epartners.php)
+Our e-Partners are incredible companies that provide resources to
+our students and faculty to engage with industry, and our ACM/AITP chapter is
+very grateful!
