@@ -46,8 +46,19 @@ tradition of the NC State CSC department, and we'd love to have you be a part!
 Coming soon!
 
 # Sponsors
-Of course, none of this possible without the help of
-[NC State's Computer Science e-Partners!](https://www.csc.ncsu.edu/corporate_relations/current-epartners.php)
-Our e-Partners are incredible companies that provide resources to
-our students and faculty to engage with industry, and our ACM/AITP chapter is
-very grateful!
+Of course, none of this possible without the help of our sponsors, a subset
+of [NC State's Computer Science e-Partners!](https://www.csc.ncsu.edu/corporate_relations/current-epartners.php)
+Our sponsors are incredible companies that provide resources to
+students and faculty to engage with industry, and our ACM/AITP chapter is
+very grateful! We'd specifically like to thank:
+ - AirWatch
+ - Applied Systems
+ - Arista
+ - Bronto
+ - Capital One
+ - Eastman
+ - Informatica
+ - Pindrop
+ - Premier
+ - ROI Revolution
+ - Vanguard
