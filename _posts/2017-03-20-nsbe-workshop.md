@@ -7,7 +7,7 @@ categories: updates, opportunities
 
 In partnership with NC State's National Society of Black Engineers chapter, ACM/AITP will be hosting a data visualization workshop, intended for beginners to programming! No experience is necessary, and there'll be **a giveaway of a few tech toys**, so come on out!
 
-The workshop runs on Saturday, March 20 from 11 AM to 2 PM, and will be in Mann Hall on Main Campus.
+The workshop runs on Saturday, March 25 from 11 AM to 2 PM, and will be in Mann Hall on Main Campus.
 
 [Sign up here!](https://tinyurl.com/NSBECode)
 
