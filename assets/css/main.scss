@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Done so that Twitter name fits on one line */
+span.username {
+  font-size: 93%;
+}
