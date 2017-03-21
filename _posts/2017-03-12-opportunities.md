@@ -2,7 +2,7 @@
 layout: post
 title:  "Opportunities for ACM/AITP Members!"
 date:   2017-02-23 14:57:57 -0500
-categories: updates, opportunities
+categories: updates opportunities
 ---
 Here are some upcoming opportunities for ACM/AITP members:
 
