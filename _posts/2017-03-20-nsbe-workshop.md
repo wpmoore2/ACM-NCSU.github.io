@@ -11,4 +11,4 @@ The workshop runs on Saturday, March 25 from 11 AM to 2 PM, and will be in **Dan
 
 [Sign up here!](https://tinyurl.com/NSBECode)
 
-<img src="{{site.baseurl}}/assets/images/nsbe-workshop-2017.jpeg" alt="NSBE Workshop 2017" />
+<img src="{{site.baseurl}}/assets/images/2017-3-25-nsbe-workshop-flier.png" alt="NSBE Workshop 2017" />
