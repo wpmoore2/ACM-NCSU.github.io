@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Vanguard Tech Talk Review"
-categories: techtalk vanguard
+categories: techtalk vanguard meanstack
 ---
 
 <!-- include image 
@@ -21,4 +21,3 @@ The second half of the talk covered the basics of Hadoop, which is a framework f
 ---
 
 Many thanks to [Vanguard](https://investor.vanguard.com/corporate-portal/) for making this talk possible.
-
