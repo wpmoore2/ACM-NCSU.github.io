@@ -2,7 +2,7 @@
 layout: post
 title:  "NSBE Data Visualization Workshop!"
 date:   2017-03-20 14:57:57 -0500
-categories: updates opportunities
+categories: updates opportunities workshops
 ---
 
 In partnership with NC State's National Society of Black Engineers chapter, ACM/AITP will be hosting a data visualization workshop, intended for beginners to programming! No experience is necessary, and there'll be **a giveaway of a few tech toys**, so come on out!
