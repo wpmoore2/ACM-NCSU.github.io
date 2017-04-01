@@ -1,14 +1,14 @@
----
-layout: default
----
-<div class="techtalk">
-  <h1>Tech Talks</h1>
-  {% if page.comments %}
-    <div id="disqus_thread">
-    <script>
+ <!-- This page serves as a development resource.
+ To use Disqus for comments in a page, copy and paste the following snippet
+ into the desired location. -->
+
+
+<div id="disqus_thread"></div>
+    <script type="text/javascript">
+      var disqus_identifier = "{{ page.url }}";
       var disqus_config = function () {
-      this.page.url = https://acm-ncsu.github.io/;  // Replace PAGE_URL
-      this.page.identifier = {% page.id %};
+      this.page.url = "https://acm-ncsu.github.io/{{ page.url }}";  // Replace PAGE_URL
+      this.page.identifier = "{{page.id}}";
       };
       (function() {
       var d = document, s = d.createElement('script');
@@ -18,7 +18,3 @@ layout: default
       })();
     </script>
     <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-    </div>
-  {% endif %}
-
-</div>
