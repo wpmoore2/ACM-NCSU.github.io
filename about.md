@@ -13,7 +13,7 @@ comprised of career
 minded individuals who seek to expand their potential.
 
 At [North Carolina State University](http://ncsu.edu), the student chapters of these two
-organizations are combined (with two sets of officers) and serve students as a
+organizations are combined and serve students as a
 joint body, the NCSU Student ACM/AITP. As an active part of the Computer Science
 Department here at NC State, ACM/AITP provides opportunities throughout the year
 for students to get involved in their department and learn about the exciting
@@ -25,7 +25,7 @@ to see when and where we're having our next event!
 # Events
 We hold a number of events each semester such as:
 
-+ **Tech Talks** where professionals come to give a short presentation on
++ **[Tech Talks]({{site.baseurl}}/techtalks)** where professionals come to give a short presentation on
 their company or a technology that they are passionate about. Previous
 participants have included Microsoft, Intel and IBM.
 Interested in giving a Tech Talk? Check out our [Contact]()
