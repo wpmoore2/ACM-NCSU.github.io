@@ -51,14 +51,11 @@ of [NC State's Computer Science e-Partners!](https://www.csc.ncsu.edu/corporate_
 Our sponsors are incredible companies that provide resources to
 students and faculty to engage with industry, and our ACM/AITP chapter is
 very grateful! We'd specifically like to thank:
- - AirWatch
- - Applied Systems
- - Arista
- - Bronto
- - Capital One
- - Eastman
- - Informatica
- - Pindrop
- - Premier
- - ROI Revolution
- - Vanguard
+- Applied Systems
+- Dell EMC
+- Dude Solutions
+- Eastman
+- Premier
+- ROI Revolution
+- VMWare
+
