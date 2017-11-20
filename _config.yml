@@ -19,9 +19,9 @@ description: > # this means to ignore newlines until "baseurl:"
         The local chapter of the Association for Computer Machinery (ACM) and
         the Association of Information Technology Professionals (AITP)
         at North Carolina State University (NCSU)
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "wpmoore2" # the subpath of your site, e.g. /blog
 permalink: /:year/:month/:day/:title/
-url: "wpmoore2" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 calendar: https://calendar.google.com/calendar/embed?src=ncsu.edu_3hjvlc7rhrinjkk3eekm7n4u7s%40group.calendar.google.com&ctz=America/New_York
 twitter_username: NCStateACMAITP
 github_username:  ACM-NCSU
